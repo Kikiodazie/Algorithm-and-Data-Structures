@@ -1,4 +1,4 @@
-package Algorithms.Easy;
+package solvedAlgorithms.Easy;
 
 /**
  * Definition for singly-linked list.

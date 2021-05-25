@@ -1,4 +1,4 @@
-package Algorithms.Medium;
+package solvedAlgorithms.Medium;
 
 class Solution {
     public int[] numSmallerByFrequency(String[] queries, String[] words) {

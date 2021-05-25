@@ -1,4 +1,4 @@
-package Algorithms.Easy;
+package solvedAlgorithms.Easy;
 
 public class MaximumSubArray {
 
